@@ -1,5 +1,8 @@
 # Return the number of even ints in the given array. Note: the % "mod" operator computes the remainder, e.g. 5 % 2 is 1.
 
+# Hint:
+# In Python, "for num in nums:" will loop through all the values in the list. Loop through all the values, and count how many times the value is even.
+
 # Expected	Run		
 # count_evens([2, 1, 2, 3, 4]) → 3	3	OK	
 # count_evens([2, 2, 0]) → 3	3	OK	
