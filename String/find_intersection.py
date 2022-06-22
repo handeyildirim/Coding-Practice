@@ -11,7 +11,7 @@
 # Input: ["1, 3, 9, 10, 17, 18", "1, 4, 9, 10"]
 # Output: 1,9,10
 
-# https://www.coderbyte.com/editor/Find%20Intersection:Python3
+# https://www.coderbyte.com/profile/handeyildirim
 
 def FindIntersection(strArr):
   firstArr = strArr[0].replace(',','').split(" ")
